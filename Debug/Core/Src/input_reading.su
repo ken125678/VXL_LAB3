@@ -1,0 +1,3 @@
+input_reading.c:14:6:buttons_init	16	static
+input_reading.c:26:6:buttons_timer_tick	32	static
+input_reading.c:47:9:button_take_press	24	static,ignoring_inline_asm

@@ -1,0 +1,12 @@
+input_processing.c:23:16:cross_amber_seconds	16	static
+input_processing.c:28:16:cross_green_seconds	16	static
+input_processing.c:31:17:phase_duration_ms	16	static
+input_processing.c:39:16:seconds_remaining	24	static
+input_processing.c:43:13:change_mode	16	static
+input_processing.c:56:13:apply_candidate	4	static
+input_processing.c:61:13:update_traffic_fsm	24	static
+input_processing.c:71:17:pins_for_light	16	static
+input_processing.c:83:13:draw_traffic_lights	32	static
+input_processing.c:104:13:draw_seven_segment	40	static
+input_processing.c:128:6:lab3_app_init	8	static
+input_processing.c:138:6:fsm_for_input_processing	16	static
